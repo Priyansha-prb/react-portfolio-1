@@ -1,92 +1,124 @@
 {
   "main": {
-    "name": "Scott Prins",
-    "occupation": "ReactJS Developer && Marketing Freelancer",
-    "description": "FullStack JavaScript Developer",
-    "image": "profile_pic.png",
-    "bio": "My name is Scott, I'm a Full Stack Developer. Currently I'm working with small business and startups, especially in the E-Commerce sector. If your business is in need of a web presence or an online store, feel free to reach out and we can see what kind of value I can bring your business.",
-    "contactmessage": "Get in touch with me to receive further details on how I can help your business reach further.",
-    "email": "prinsmediainc@gmail.com",
-    "phone": "458-209-7735",
+    "name": "Priyansha RB",
+    "occupation": "Azure Cloud Engineer",
+    "companyName": "Capgemini",
+    "clientName": "Aviva Life Insurance",
+    "currentRole": "Cloud Full Stack Developer",
+    "description": "Cloud Full Stack Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "image": "profile-pic.jpeg",
+    "bio": "My name is Priyansha, I'm currently working in Capgemini. I have a profound knowledge in Technologies such as ASP.NET, C#, MVC, Azure PAAS, Javascript, React JS, Git etc with a strong communication skill. I also have a deep understanding of Agile methodolgy and have done multiple projects in this. I consider my biggest strengths as being a individual contributor, a great Team Player, always being ready for new challenges.",
+    "email": "priyansha.prb@outlook.com",
+    "phone": "+91 7095791408",
     "address": {
-      "street": "",
-      "city": "Lake Elsinore",
-      "state": "CA",
-      "zip": "92530"
+      "street": "Flat No 405 Lotus Arcadia",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500081"
     },
-    "website": "http://www.richardsprins.me",
-    "resumedownload": "/Richard-Prins-Resume_Aug-2020.pdf",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1YA_F4p7sOUFgoxlD_XjuO9lf19d5ctHG/view",
     "social": [
       {
-        "name": "twitter",
-        "url": "https://www.twitter.com/scott_prins",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/richard-prins-jr/",
+        "url": "https://www.linkedin.com/in/priyansha-prb-9a2560a4/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/rowdyracerx.710/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/RichardSPrins",
+        "url": "https://github.com/Priyansha-prb",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Lambda School, Inc.",
-        "degree": "Full Stack Developer Track",
-        "graduated": "october 2019",
-        "description": "Studied Modern Web Development under a curriculum curated and taught by industry professionals."
+        "school": "Sathyabama University",
+        "degree": "Bachelors of Engineering in Electronics & TeleCommunications",
+        "graduated": "April 2016",
+        "description": "Graduated with CGPA 8.38",
+        "location": "Chennai, TamilNadu, India"
+      },
+      {
+        "school": "Mother's International Academy",
+        "degree": "Senior Secondary Education",
+        "graduated": "May 2011",
+        "location": "Patna, Bihar, India"
+      },
+      {
+        "school": "Mother's International Academy",
+        "degree": "Secondary Education",
+        "graduated": "May 2009",
+        "location": "Patna, Bihar, India"
       }
     ],
     "work": [
       {
-        "company": "Stand and Stretch",
-        "title": "Web Engineer",
-        "years": "April 2020 - Present",
-        "description": "Develop and maintain web pages for small business, composing ad strategies and managing retargetinng ads. Maintain web servers and perform scheduled backups of sites and respective databases. Maintain agency-client relations for the duration of a project."
+        "company": "Capgemini",
+        "client": "Aviva Life Insurance",
+        "title": "Cloud Full Stack Engineer",
+        "years": "December 2019 - Present",
+        "location": "Hyderabad, Telangana, India",
+        "description": "Working as a Cloud Full Stack developer for a banking application. Involved in entire Agile Process from User stories grooming to till the delivery of the respective user stories.My Technical,responsibilities include,full stack development activities like creating React components and integrating with the respective APIs and backend activities include developing APIs in Micro-services architecture using Azure functions as a backend framework. Got quarterly promoted. "
       },
       {
-        "company": "Pumpt, LLC.",
-        "title": "Lead Software Engineer",
-        "years": "May 2020 - Present",
-        "description": "Taking on the role of sole developer for a lean startup, I have curated a strategy to overhaul and rebrand a B2B startup, with a custom web application to handle all of their business logic for their users. Acted as tech support for customers as well."
+        "company": "Capgemini",
+        "client": "Euroclear Banking & Finance",
+        "title": "Full Stack Developer",
+        "years": "April 2018 - December 2019",
+        "location": "Hyderabad, Telangana, India",
+        "description": "As a Junior Full Stack developer for a banking application, I am responsible for client communications and for development of applications as per the client requirements. I am also responsible for providing technical assistance to the team as and when required.Technologies Used: ASP.NET, MVC, C#, Web Services (SOAP and REST), JQuery. "
+      },
+      {
+        "company": "Capgemini",
+        "client": "Assurant Mortrages & Insurance",
+        "title": ".Net Developer",
+        "years": "May 2016 - April 2018",
+        "location": "Hyderabad, Telangana, India",
+        "description": "Worked as a Junior .Net developer. Involved in creating web application for Insurance Domain. I am responsible for development activities involved in sprints. Acknowledged and appreciated with client for Project deliverables"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "C#",
+        "level": "85%"
       },
       {
-        "name": "CSS",
+        "name": "ASP.Net",
         "level": "80%"
+      },
+      {
+        "name": "Azure",
+        "level": "85%"
       },
       {
         "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JS",
+        "level": "60%"
+      },
+      {
+        "name": "React JS",
+        "level": "60%"
+      },
+      {
+        "name": "Cosmos DB",
         "level": "80%"
       },
       {
-        "name": "HTML5",
-        "level": "100%"
-      },
-      {
-        "name": "MongoDB",
+        "name": "SQL",
         "level": "80%"
       },
       {
-        "name": "NodeJs",
-        "level": "75%"
+        "name": "Web API",
+        "level": "80%"
+      },
+      {
+        "name": "MVC",
+        "level": "90%"
       },
       {
         "name": "Python",
@@ -97,53 +129,42 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Pumpt, LLC",
-        "category": "Job Matching application for a startup, built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "pumpt-app.png",
-        "url": "https://www.pumpthq.com"
-      },
-      {
-        "title": "CROWN Streetwear",
-        "category": "E-Commerce App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "Crown-screenshot.png",
-        "url": "https://crown-project-deploy.herokuapp.com/"
-      },
-      {
-        "title": "Mama Funk Clones",
-        "category": "Static Site built with NextJS",
-        "image": "mama-funk-clones.png",
-        "url": "https://mama-funk-clones.vercel.app/"
-      },
-      {
-        "title": "Ronald McDonald House - West GA Chapter",
-        "category": "Chapter Website for local nonprofit chapter of Ronald McDonald House",
-        "image": "rmhc.png",
-        "url": "https://wordpress-341820-1385962.cloudwaysapps.com/"
-      },
-      {
-        "title": "InSil3nc3",
-        "category": "Event Coordinator Site for the Greater Columbus Area",
-        "image": "insil3nc3.png",
-        "url": "https://wordpress-341820-1211836.cloudwaysapps.com/"
-      },
-      {
-        "title": "Pine Ridge Elementary PTA",
-        "category": "PTA Announcement site for Pine Ridge Elementary School",
-        "image": "prepta.png",
-        "url": "https://www.prepta.org"
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+  "accolades": {
+    "accolades": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "title": "Received ROCKSTAR Award in Project Delivery",
+        "category": "AVIVA Capgemini, Hyderabad - 2021"
+      },
+
+      {
+        "title": "Received ROCKSTAR Award in Project Delivery",
+        "category": "AVIVA Capgemini, Hyderabad - 2020"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Received ROCKSTAR Award in Project Delivery",
+        "category": "EUROCLEAR Capgemini, Hyderabad - 2019"
+      },
+      {
+        "title": "Received RISING STAR Award from ADM (Microsoft) Practice BU",
+        "category": "ASSURANT Capgemini, Hyderabad - 2018"
+      },
+      {
+        "title": "Received 3rd Prize in Hackathon",
+        "category": "Capgemini, Hyderabad - 2017"
+      },
+      {
+        "title": "Published a paper",
+        "category": "IEEE Conference - ICCSP 2016",
+        "url": "https://ieeexplore.ieee.org/document/7754546"
+      },
+      {
+        "title": "Department Topper(Rank 3rd) Of Electronics And Telecommunication Engineering",
+        "category": "B Tech Batch 2012-2016"
       }
     ]
   }
 }
+
