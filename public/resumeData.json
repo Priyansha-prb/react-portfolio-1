@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Priyansha RB",
+    "name": "Priyansha",
     "occupation": "Azure Cloud Engineer",
     "companyName": "Capgemini",
     "clientName": "Aviva Life Insurance",
     "currentRole": "Cloud Full Stack Developer",
-    "description": "Cloud Full Stack Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "description": "I'm a passionate Full Stack Developer, currently working with Capgemini for a client Aviva as a Developer.",
     "image": "profile-pic.jpeg",
     "bio": "My name is Priyansha, I'm currently working in Capgemini. I have a profound knowledge in Technologies such as ASP.NET, C#, MVC, Azure PAAS, Javascript, React JS, Git etc with a strong communication skill. I also have a deep understanding of Agile methodolgy and have done multiple projects in this. I consider my biggest strengths as being a individual contributor, a great Team Player, always being ready for new challenges.",
     "email": "priyansha.prb@outlook.com",
@@ -124,11 +124,37 @@
         "name": "Python",
         "level": "70%"
       }
+    ],
+    "extraCurriculars": [
+      {
+        "description": "Math Club at Sathyabama University-I served as a Vice President role at Math Club, organized various workshop, symposium and math logic based events(like Rubik's cube quiz, etc.). This club moto is to bring out and improve the hidden analytical and qualitative approach of the students."
+      },
+      {
+        "description": "Toastmaster's Club at Capgemini-I am Lead at Toastmaster's Club, which provides us to confidently express our ideas and deliver a presentation effectively and to grow as a competent communicator and an effective public speaker. This enables us to confidently express our ideas and deliver a presentation effectively. We discuss the various business ideas and challenges faced in the industry and also promoting the leadership skills."
+      },
+      {
+        "description": "WEKare (Corporate Social Responsibility) at Capgemini- Single Point of Contact/Head at WeKare from Capgemini-Hyderabad Team. I am taking the responsibilities of all social activities such as tree plantation, distributing the stationery items to underprivilege, physically disabled and girl kids, to encourage and give insights about the values of studies and also nurture them. We keep organizing the events throughout the year."
+      }
+    ],
+    "awards": [
+      {
+        "description": "Project Delivery Award at UOB for Singapore go live of Infinity Digital Banking application."
+      },
+      {
+        "description": "SPOT Awards at Deloitte Consulting USI for Project Delivery and being a 2nd runner-up in a Hackathon for building a 2D game."
+      },
+      {
+        "description": "Appreciation Award at Cognizant Technoloy Solutions for Project Delivery."
+      }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "A Novel Input Output Impedance Matching Network for LNA",
+        "category": "Matching Network for LNA",
+        "image": "download.png",
+        "url": "https://ieeexplore.ieee.org/document/7754546"
       }
     ]
   },

@@ -58,9 +58,6 @@ const [matches, setMatches] = useState(mobileSize.matches);
               <SassLogo style={styles.img(matches)} className="stack-logo"/>
               <RouterLogo style={styles.img(matches)} className="stack-logo"/>
               <TailwindLogo style={styles.img(matches)} className="stack-logo"/>
-
-
-
             </div>
           </div>
         </div>  
