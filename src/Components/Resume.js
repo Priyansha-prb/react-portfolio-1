@@ -122,7 +122,7 @@ class Resume extends Component {
           <div className="nine columns main-col">
             {publications}
           </div>
-        </div>
+        </div>  
    </section>
     );
   }
