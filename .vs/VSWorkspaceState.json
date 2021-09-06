@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
-    "\\src",
+    "\\public\\js",
     "\\src\\Components"
   ],
-  "SelectedNode": "\\src\\Components\\TechStack.js",
   "PreviewInSolutionExplorer": false
 }

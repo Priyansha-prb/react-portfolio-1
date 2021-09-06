@@ -22,14 +22,24 @@ class Resume extends Component {
       })
       var extraCurriculars = this.props.data.extraCurriculars.map((extraCurricular) =>  {
         return (
-         
+          <ul key={extraCurricular.description}>
             <li>{extraCurricular.description}</li>
-          
+          </ul>
         );
       });
       var awards = this.props.data.awards.map((award) =>  {
         return (
+          <ul key={award.description}>
             <li>{award.description}</li>
+          </ul>
+        );
+      });
+      var publications = this.props.data.publications.map((award) =>  {
+        return (
+          <ul key={award.description}>
+            <li>{award.description}</li>
+            <a href="https://ieeexplore.ieee.org/document/7754546/">See Publication</a>
+          </ul>
         );
       });
     }
@@ -65,7 +75,7 @@ class Resume extends Component {
 
 
 
-      <div className="row skill">
+      <div id="skills" className="row skill">
 
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>
@@ -101,6 +111,16 @@ class Resume extends Component {
           </div>
           <div className="nine columns main-col">
             {awards}
+          </div>
+        </div>
+        <div id="publications" className="row skill">
+          <div className="three columns header-col">
+            <h1>
+              <span>Publications</span>
+            </h1>
+          </div>
+          <div className="nine columns main-col">
+            {publications}
           </div>
         </div>
    </section>

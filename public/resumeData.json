@@ -5,7 +5,7 @@
     "companyName": "Capgemini",
     "clientName": "Aviva Life Insurance",
     "currentRole": "Cloud Full Stack Developer",
-    "description": "I'm a passionate Full Stack Developer, currently working with Capgemini for a client Aviva as a Developer.",
+    "description": "I'm a passionate Full Stack Developer, currently working with Capgemini for a client Aviva as a Developer",
     "image": "profile-pic.jpeg",
     "bio": "My name is Priyansha, I'm currently working in Capgemini. I have a profound knowledge in Technologies such as ASP.NET, C#, MVC, Azure PAAS, Javascript, React JS, Git etc with a strong communication skill. I also have a deep understanding of Agile methodolgy and have done multiple projects in this. I consider my biggest strengths as being a individual contributor, a great Team Player, always being ready for new challenges.",
     "email": "priyansha.prb@outlook.com",
@@ -138,15 +138,25 @@
     ],
     "awards": [
       {
-        "description": "Project Delivery Award at UOB for Singapore go live of Infinity Digital Banking application."
+        "description": "STAR Award for the successful and on-time Project Delivery at Aviva."
       },
       {
-        "description": "SPOT Awards at Deloitte Consulting USI for Project Delivery and being a 2nd runner-up in a Hackathon for building a 2D game."
+        "description": "RISING STAR Award from Microsoft ADM Practice at Aviva."
       },
       {
-        "description": "Appreciation Award at Cognizant Technoloy Solutions for Project Delivery."
+        "description": "ROCKSTAR Award for Project Delivery for on time Project Delivery at Euroclear."
+      },
+      {
+        "description": "ROCKSTAR Award Project Delivery in Q1 on successful Project Delivery at Assurant."
+      },
+      {
+        "description": "3rd position in Hackathon for building Car Pool Application for employees at Capgemini Hyderabad."
       }
-    ]
+    ],
+    "publications": [
+      {
+        "description": "Published a paper on A Novel Input-Output Impedance Matching Network for LNA in IEEE Conference - ICCSP'2016."
+      }]
   },
   "portfolio": {
     "projects": [
